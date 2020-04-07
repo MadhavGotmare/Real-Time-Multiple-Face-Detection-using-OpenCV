@@ -1,1 +1,1 @@
-Real-Time Multiple Face Recognition using OpenCv
+Real-Time Multiple Face Recognition using OpenCV
