@@ -11,14 +11,20 @@ Download the clone file of this project in your IDE project directory.
 Install Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux distribution) run this command in cmd. 
 
 run >>>pip install opencv-python. if you need only main modules
+
 run >>>pip install opencv-contrib-python. if you need both main and contrib modules 
 
 ### Installing
 STEP1: - Install the IP Web Camera in your mobile phone. Start the server and copy the url, paste it your browser.
+
 STEP2: - Copy the URL into your project (For ex. url = '192.168.0.1/shot.jpg')
+
 STEP3: - Run face_detection.py script.
+
 STEP4: - Run collect collect_training_data.py script.
+
 STEP5: - Run classifier.py script a classifier.yml file will be generated.
+
 STEP6: - Run recognize.py script for face recognition.
 
 ## Authors
